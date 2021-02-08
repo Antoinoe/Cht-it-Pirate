@@ -1231,3 +1231,813 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.08-17.45.11:916][335]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/FélixWW_Auto147590CB845FE0686CD9CA8AD175C0A11.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/FélixWW_Auto1.umap'
 [2021.02.08-17.45.11:919][335]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Félix/FélixWW' took 0.076
 [2021.02.08-17.45.11:919][335]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.076
+[2021.02.08-17.50.03:140][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/FélixWW" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/FélixWW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.08-17.50.03:174][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.08-17.50.03:205][713]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/FélixWW571D33044A1B8ADE47F4969C8074D02A.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/FélixWW.umap'
+[2021.02.08-17.50.03:254][713]AssetCheck: New page: Asset Save: FélixWW
+[2021.02.08-17.50.03:255][713]LogContentValidation: Display: Validating World /Game/Félix/FélixWW.FélixWW
+[2021.02.08-18.00.17:166][914]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.02.08-18.00.18:303][914]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.02.08-18.00.22:150][362]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.00.46:798][178]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.00.46:850][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.32ms
+[2021.02.08-18.00.46:869][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.00.46:879][178]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock8515DA4A49A84E58E778DC8A15EDDFDC.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.00.46:894][178]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.00.46:895][178]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.01.39:866][ 31]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.01.39:866][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.01.40:433][ 86]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.08-18.01.40:433][ 86]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.01.40:433][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.01.40:899][132]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.08-18.01.40:899][132]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.01.40:900][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.05.26:840][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2021.02.08-18.05.26:844][ 23]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Félix/FélixWW' took 0.071
+[2021.02.08-18.05.26:845][ 23]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Félix/Rock] ([1] browsable assets)...
+[2021.02.08-18.05.26:845][ 23]OBJ SavePackage: Finished generating thumbnails for package [/Game/Félix/Rock]
+[2021.02.08-18.05.26:845][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/Rock_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2021.02.08-18.05.26:864][ 23]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock_Auto2DD5D4AE34FD467B561628DB45707CEAC.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/Rock_Auto2.uasset'
+[2021.02.08-18.05.26:865][ 23]LogFileHelpers: Auto-saving content packages took 0.020
+[2021.02.08-18.06.15:462][921]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.06.15:464][921]LogBlueprint: Warning: [Compiler Rock] 'Third Person Character' does not inherit from 'Primitive Component' ( Cast To ThirdPersonCharacter  would always fail).
+[2021.02.08-18.06.15:536][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.02.08-18.06.31:542][802]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.06.31:579][802]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2021.02.08-18.06.31:605][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.06.31:618][802]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock9F302F21491B67B206334FBA69EB727E.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.06.31:632][802]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.06.31:632][802]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.11.42:855][690]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.11.42:895][690]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.02.08-18.11.42:928][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.11.42:951][690]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/RockA1137B264CBCCB7FEC808485648F1059.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.11.42:969][690]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.11.42:969][690]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.11.53:605][882]LogSlate: Took 0.001158 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.02.08-18.12.17:371][637]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.12.17:411][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.02.08-18.12.17:447][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.12.17:466][637]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock786454824650B5D2888B4BB5C9F568C8.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.12.17:476][637]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.12.17:477][637]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.12.26:576][652]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.12.26:592][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.12.26:593][652]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:12:26)
+[2021.02.08-18.12.26:630][652]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.12.26:638][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008433s)
+[2021.02.08-18.12.26:639][652]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.12.26:639][652]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FC7EB0A00), frame # 219652
+[2021.02.08-18.12.26:639][652]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025026DCB880), frame # 219652
+[2021.02.08-18.12.26:639][652]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2021.02.08-18.12.26:639][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009828s)
+[2021.02.08-18.12.26:667][652]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.12.26:670][652]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.12.26:670][652]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.12.26:671][652]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.12.26:671][652]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.12.26:675][652]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.12.26:675][652]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.12.26:691][652]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.12.26:691][652]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.12.26:691][652]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.12.26:691][652]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.12.26:692][652]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.12.26:703][652]LogInit: FAudioDevice initialized.
+[2021.02.08-18.12.26:715][652]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.12.26:717][652]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.12.26
+[2021.02.08-18.12.26:717][652]LogWorld: Bringing up level for play took: 0.001451
+[2021.02.08-18.12.26:717][652]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.02.08-18.12.26:741][652]PIE: Server logged in
+[2021.02.08-18.12.26:742][652]PIE: Play in editor total start time 0,151 seconds.
+[2021.02.08-18.12.36:331][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.12.36:331][792]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.12.36:331][792]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.12.36:332][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.12.36:341][792]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.12.36:344][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.12.36:380][792]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.12.36:381][792]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025026DCB880), frame # 220792
+[2021.02.08-18.12.36:381][792]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FC7EB0A00), frame # 220792
+[2021.02.08-18.12.36:384][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2021.02.08-18.12.36:419][793]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.02.08-18.13.02:864][819]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.13.02:905][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.02.08-18.13.02:956][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.13.02:975][819]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock4F7C2A3347E368F96B557AA7F748B74E.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.13.02:988][819]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.13.02:988][819]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.13.04:380][958]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.13.04:396][958]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.13.04:396][958]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:13:04)
+[2021.02.08-18.13.04:430][958]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.04:437][958]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007103s)
+[2021.02.08-18.13.04:438][958]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.13.04:438][958]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025055BB6600), frame # 223958
+[2021.02.08-18.13.04:438][958]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002501E47E700), frame # 223958
+[2021.02.08-18.13.04:438][958]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2021.02.08-18.13.04:438][958]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.008468s)
+[2021.02.08-18.13.04:466][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.13.04:467][958]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.13.04:467][958]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.13.04:467][958]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.13.04:472][958]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.13.04:472][958]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.13.04:485][958]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.13.04:485][958]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.13.04:485][958]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.13.04:485][958]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.13.04:485][958]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.13.04:497][958]LogInit: FAudioDevice initialized.
+[2021.02.08-18.13.04:504][958]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.13.04:505][958]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.13.04
+[2021.02.08-18.13.04:505][958]LogWorld: Bringing up level for play took: 0.001286
+[2021.02.08-18.13.04:505][958]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.02.08-18.13.04:507][958]PIE: Server logged in
+[2021.02.08-18.13.04:507][958]PIE: Play in editor total start time 0,112 seconds.
+[2021.02.08-18.13.08:381][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.08:381][416]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.08:381][416]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.13.08:381][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.08:394][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.13.08:397][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.08:437][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.08:438][416]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002501E47E700), frame # 224416
+[2021.02.08-18.13.08:438][416]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025055BB6600), frame # 224416
+[2021.02.08-18.13.08:440][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.08-18.13.08:478][417]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.02.08-18.13.31:521][100]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.13.31:560][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2021.02.08-18.13.31:613][100]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.13.31:632][100]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock2FA9961946B78E16A6AE749A11577DDD.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.13.31:644][100]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.13.31:644][100]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.13.32:888][217]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.13.32:903][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.13.32:903][217]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:13:32)
+[2021.02.08-18.13.32:931][217]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.32:938][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007470s)
+[2021.02.08-18.13.32:940][217]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.13.32:940][217]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025083F05600), frame # 227217
+[2021.02.08-18.13.32:940][217]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002501BA056C0), frame # 227217
+[2021.02.08-18.13.32:940][217]LogPlayLevel: PIE: World Init took: (0.001827s)
+[2021.02.08-18.13.32:940][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009446s)
+[2021.02.08-18.13.32:969][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.02.08-18.13.32:969][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.13.32:969][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.13.32:969][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.13.32:970][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.13.32:970][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.13.32:970][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.13.32:970][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.13.32:970][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.13.32:970][217]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.13.32:970][217]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.13.32:974][217]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.13.32:974][217]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.13.32:987][217]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.13.32:987][217]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.13.32:987][217]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.13.32:987][217]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.13.32:987][217]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.13.32:998][217]LogInit: FAudioDevice initialized.
+[2021.02.08-18.13.33:004][217]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.13.33:005][217]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.13.33
+[2021.02.08-18.13.33:005][217]LogWorld: Bringing up level for play took: 0.001367
+[2021.02.08-18.13.33:006][217]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.02.08-18.13.33:007][217]PIE: Server logged in
+[2021.02.08-18.13.33:008][217]PIE: Play in editor total start time 0,105 seconds.
+[2021.02.08-18.13.34:413][383]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.13.36:301][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.36:301][602]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.36:301][602]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.13.36:301][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.36:316][602]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.13.36:319][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.36:354][602]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.36:355][602]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002501BA056C0), frame # 227602
+[2021.02.08-18.13.36:355][602]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025083F05600), frame # 227602
+[2021.02.08-18.13.36:357][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.02.08-18.13.36:394][603]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.02.08-18.13.46:616][780]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.13.46:656][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.08-18.13.46:709][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.13.46:729][780]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock0EF67BE640F6EC714E5C9C88F6961445.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.13.46:748][780]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.13.46:748][780]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.13.47:726][879]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.13.47:742][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.13.47:742][879]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:13:47)
+[2021.02.08-18.13.47:779][879]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.47:787][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007597s)
+[2021.02.08-18.13.47:788][879]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.13.47:788][879]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002504CD49000), frame # 228879
+[2021.02.08-18.13.47:788][879]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025026BDD940), frame # 228879
+[2021.02.08-18.13.47:788][879]LogPlayLevel: PIE: World Init took: (0.001293s)
+[2021.02.08-18.13.47:788][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009043s)
+[2021.02.08-18.13.47:817][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.02.08-18.13.47:817][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.13.47:817][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.13.47:817][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.13.47:817][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.13.47:818][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.13.47:818][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.13.47:818][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.13.47:818][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.13.47:818][879]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.13.47:818][879]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.13.47:822][879]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.13.47:822][879]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.13.47:834][879]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.13.47:835][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.13.47:835][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.13.47:835][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.13.47:835][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.13.47:846][879]LogInit: FAudioDevice initialized.
+[2021.02.08-18.13.47:851][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.13.47:853][879]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.13.47
+[2021.02.08-18.13.47:853][879]LogWorld: Bringing up level for play took: 0.001291
+[2021.02.08-18.13.47:853][879]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.02.08-18.13.47:855][879]PIE: Server logged in
+[2021.02.08-18.13.47:855][879]PIE: Play in editor total start time 0,113 seconds.
+[2021.02.08-18.13.49:893][121]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.13.51:168][274]LogBlueprintUserMessages: [Rock_2] IsOut
+[2021.02.08-18.13.52:709][459]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.13.56:380][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.56:380][895]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.13.56:380][895]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.13.56:381][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.56:392][895]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.13.56:396][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.13.56:433][895]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.13.56:433][895]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025026BDD940), frame # 229895
+[2021.02.08-18.13.56:434][895]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002504CD49000), frame # 229895
+[2021.02.08-18.13.56:436][895]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.02.08-18.13.56:472][896]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.02.08-18.14.07:566][181]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.14.07:609][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2021.02.08-18.14.07:657][181]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.14.07:676][181]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock01FAB9CC4B16D2DB665B8FB0E25E5151.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.14.07:702][181]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.14.07:702][181]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.14.09:168][336]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.14.09:187][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.14.09:187][336]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:14:09)
+[2021.02.08-18.14.09:219][336]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.09:227][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007949s)
+[2021.02.08-18.14.09:228][336]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.14.09:228][336]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025084D4D400), frame # 231336
+[2021.02.08-18.14.09:228][336]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025026BDD6C0), frame # 231336
+[2021.02.08-18.14.09:228][336]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2021.02.08-18.14.09:228][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009259s)
+[2021.02.08-18.14.09:255][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.14.09:256][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.14.09:256][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.14.09:257][336]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.14.09:257][336]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.14.09:261][336]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.14.09:261][336]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.14.09:274][336]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.14.09:274][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.14.09:274][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.14.09:274][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.14.09:274][336]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.14.09:286][336]LogInit: FAudioDevice initialized.
+[2021.02.08-18.14.09:291][336]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.14.09:293][336]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.14.09
+[2021.02.08-18.14.09:293][336]LogWorld: Bringing up level for play took: 0.001310
+[2021.02.08-18.14.09:293][336]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.02.08-18.14.09:295][336]PIE: Server logged in
+[2021.02.08-18.14.09:296][336]PIE: Play in editor total start time 0,109 seconds.
+[2021.02.08-18.14.10:708][503]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.14.13:760][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.13:760][865]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.13:760][865]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.14.13:761][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.13:773][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.14.13:777][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.13:813][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.13:814][865]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025026BDD6C0), frame # 231865
+[2021.02.08-18.14.13:814][865]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025084D4D400), frame # 231865
+[2021.02.08-18.14.13:816][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.02.08-18.14.13:857][866]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.02.08-18.14.26:362][309]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.14.26:402][309]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.02.08-18.14.26:439][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.14.26:459][309]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock143F0A884F24B8C9DD9A4C96A12FBFF9.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.14.26:478][309]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.14.26:478][309]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.14.27:508][412]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.14.27:523][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.14.27:523][412]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:14:27)
+[2021.02.08-18.14.27:523][412]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.27:531][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007656s)
+[2021.02.08-18.14.27:532][412]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.14.27:532][412]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025084C3FE00), frame # 233412
+[2021.02.08-18.14.27:532][412]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024FF31AB240), frame # 233412
+[2021.02.08-18.14.27:532][412]LogPlayLevel: PIE: World Init took: (0.001434s)
+[2021.02.08-18.14.27:532][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009232s)
+[2021.02.08-18.14.27:559][412]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.14.27:560][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.14.27:560][412]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.14.27:560][412]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.14.27:564][412]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.14.27:564][412]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.14.27:577][412]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.14.27:577][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.14.27:577][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.14.27:577][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.14.27:577][412]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.14.27:588][412]LogInit: FAudioDevice initialized.
+[2021.02.08-18.14.27:596][412]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.14.27:598][412]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.14.27
+[2021.02.08-18.14.27:598][412]LogWorld: Bringing up level for play took: 0.001439
+[2021.02.08-18.14.27:599][412]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.02.08-18.14.27:600][412]PIE: Server logged in
+[2021.02.08-18.14.27:601][412]PIE: Play in editor total start time 0,079 seconds.
+[2021.02.08-18.14.28:970][574]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.14.31:830][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.31:830][914]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.31:830][914]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.14.31:831][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.31:845][914]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.14.31:848][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.31:884][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.31:885][914]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024FF31AB240), frame # 233914
+[2021.02.08-18.14.31:885][914]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025084C3FE00), frame # 233914
+[2021.02.08-18.14.31:887][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.02.08-18.14.31:921][915]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.02.08-18.14.42:004][ 60]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.14.42:045][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.02.08-18.14.42:086][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.14.42:105][ 60]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/RockCB3F499D47EC1917CEA4A9ABF656A453.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.14.42:118][ 60]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.14.42:118][ 60]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.14.43:179][173]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.14.43:195][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.14.43:195][173]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:14:43)
+[2021.02.08-18.14.43:220][173]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.43:227][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007576s)
+[2021.02.08-18.14.43:228][173]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.14.43:228][173]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002506FC3FE00), frame # 235173
+[2021.02.08-18.14.43:228][173]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000024FC4F85580), frame # 235173
+[2021.02.08-18.14.43:228][173]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2021.02.08-18.14.43:229][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.008766s)
+[2021.02.08-18.14.43:258][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.14.43:259][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.14.43:259][173]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.14.43:259][173]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.14.43:263][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.14.43:263][173]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.14.43:276][173]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.14.43:277][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.14.43:277][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.14.43:277][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.14.43:277][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.14.43:278][173]LogInit: FAudioDevice initialized.
+[2021.02.08-18.14.43:292][173]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.14.43:294][173]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.14.43
+[2021.02.08-18.14.43:294][173]LogWorld: Bringing up level for play took: 0.001266
+[2021.02.08-18.14.43:294][173]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.02.08-18.14.43:295][173]PIE: Server logged in
+[2021.02.08-18.14.43:296][173]PIE: Play in editor total start time 0,102 seconds.
+[2021.02.08-18.14.44:641][332]LogBlueprintUserMessages: [Rock_2] IsIn
+[2021.02.08-18.14.49:780][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.49:780][940]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.14.49:780][940]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.14.49:781][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.49:793][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.14.49:797][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.14.49:835][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.14.49:836][940]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000024FC4F85580), frame # 235940
+[2021.02.08-18.14.49:836][940]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002506FC3FE00), frame # 235940
+[2021.02.08-18.14.49:839][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.02.08-18.14.49:882][941]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.02.08-18.15.29:743][599]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.15.29:784][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2021.02.08-18.15.29:824][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.15.29:845][599]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock33DDB70945B3383C9E6FA38179611D7E.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.15.29:859][599]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.15.29:859][599]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.15.31:035][716]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.15.31:051][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.15.31:051][716]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:15:31)
+[2021.02.08-18.15.31:099][716]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.15.31:107][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007628s)
+[2021.02.08-18.15.31:108][716]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.15.31:108][716]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025082F85000), frame # 240716
+[2021.02.08-18.15.31:108][716]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002501BF71800), frame # 240716
+[2021.02.08-18.15.31:108][716]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2021.02.08-18.15.31:108][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.008942s)
+[2021.02.08-18.15.31:136][716]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.15.31:137][716]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.15.31:137][716]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.15.31:138][716]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.15.31:138][716]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.15.31:142][716]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.15.31:142][716]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.15.31:155][716]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.15.31:155][716]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.15.31:156][716]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.15.31:156][716]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.15.31:156][716]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.15.31:167][716]LogInit: FAudioDevice initialized.
+[2021.02.08-18.15.31:179][716]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.15.31:181][716]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.15.31
+[2021.02.08-18.15.31:181][716]LogWorld: Bringing up level for play took: 0.001543
+[2021.02.08-18.15.31:181][716]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.02.08-18.15.31:183][716]PIE: Server logged in
+[2021.02.08-18.15.31:183][716]PIE: Play in editor total start time 0,133 seconds.
+[2021.02.08-18.15.37:931][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.15.37:931][517]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.15.37:931][517]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.15.37:931][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.15.37:944][517]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.15.37:947][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.15.37:983][517]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.15.37:984][517]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002501BF71800), frame # 241517
+[2021.02.08-18.15.37:984][517]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025082F85000), frame # 241517
+[2021.02.08-18.15.37:987][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.08-18.15.38:023][518]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.02.08-18.16.18:965][355]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.08-18.16.18:967][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/FélixWW" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/FélixWW_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.08-18.16.19:008][355]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/FélixWW_Auto393E175424D35E71106724CAF3C3678E3.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/FélixWW_Auto3.umap'
+[2021.02.08-18.16.19:013][355]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Félix/FélixWW' took 0.073
+[2021.02.08-18.16.19:013][355]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.073
+[2021.02.08-18.16.41:607][  3]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.16.41:651][  3]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2021.02.08-18.16.41:704][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.16.41:722][  3]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock5045E5B849F7FC6DE7E8DE9407E07F5B.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.16.41:751][  3]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.16.41:751][  3]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.19.43:223][542]LogSlate: Window 'Delete Variable' being destroyed
+[2021.02.08-18.20.12:325][888]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.08-18.20.12:383][888]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.02.08-18.20.12:485][888]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/ThirdPersonCharacter8D7598E34FDE437E55469AB5E7D75553.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.08-18.20.12:505][888]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.08-18.20.12:505][888]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.08-18.24.21:824][599]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.24.21:871][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.02.08-18.24.21:914][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.24.21:941][599]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock0EB07B6F4AF62D437A6F86B0C821DFB1.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.24.21:956][599]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.24.21:956][599]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.24.37:302][348]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.02.08-18.24.37:364][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.02.08-18.24.37:458][348]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/ThirdPersonCharacter92D7A83B481B4D82141EA3A44F4D3044.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.02.08-18.24.37:480][348]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.02.08-18.24.37:481][348]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.02.08-18.25.45:693][242]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.25.45:751][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.02.08-18.25.45:802][242]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.25.45:823][242]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock3CED0D624F5B682E22649DAE570B3DD1.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.25.45:842][242]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.25.45:842][242]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.25.49:348][617]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.25.49:366][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.25.49:366][617]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:25:49)
+[2021.02.08-18.25.49:366][617]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.25.49:377][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010402s)
+[2021.02.08-18.25.49:378][617]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.25.49:378][617]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000025084179600), frame # 303617
+[2021.02.08-18.25.49:378][617]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025019DFE840), frame # 303617
+[2021.02.08-18.25.49:378][617]LogPlayLevel: PIE: World Init took: (0.001129s)
+[2021.02.08-18.25.49:378][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.011648s)
+[2021.02.08-18.25.49:407][617]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.25.49:409][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.25.49:409][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.25.49:410][617]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.25.49:410][617]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.25.49:414][617]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.25.49:414][617]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.25.49:428][617]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.25.49:428][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.25.49:428][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.25.49:428][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.25.49:428][617]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.25.49:440][617]LogInit: FAudioDevice initialized.
+[2021.02.08-18.25.49:451][617]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.25.49:452][617]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.25.49
+[2021.02.08-18.25.49:453][617]LogWorld: Bringing up level for play took: 0.001316
+[2021.02.08-18.25.49:453][617]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.02.08-18.25.49:454][617]PIE: Server logged in
+[2021.02.08-18.25.49:455][617]PIE: Play in editor total start time 0,089 seconds.
+[2021.02.08-18.26.12:229][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.12:229][320]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.26.12:229][320]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.26.12:229][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.12:240][320]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.26.12:244][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.12:281][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.12:281][320]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025019DFE840), frame # 306320
+[2021.02.08-18.26.12:281][320]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025084179600), frame # 306320
+[2021.02.08-18.26.12:284][320]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.08-18.26.12:322][321]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.02.08-18.26.16:178][739]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.26.16:223][739]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.02.08-18.26.16:275][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.26.16:295][739]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock216EE58F4C263615A2D837AEE2839067.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.26.16:319][739]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.26.16:319][739]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.26.18:694][  0]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.26.18:710][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.26.18:710][  0]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:26:18)
+[2021.02.08-18.26.18:748][  0]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.26.18:756][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008314s)
+[2021.02.08-18.26.18:757][  0]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.26.18:757][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FE476C200), frame # 307000
+[2021.02.08-18.26.18:757][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025079E35580), frame # 307000
+[2021.02.08-18.26.18:758][  0]LogPlayLevel: PIE: World Init took: (0.001198s)
+[2021.02.08-18.26.18:758][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009713s)
+[2021.02.08-18.26.18:786][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.02.08-18.26.18:786][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.26.18:786][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.26.18:786][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.26.18:786][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.26.18:786][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.26.18:787][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.26.18:787][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.26.18:787][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.26.18:787][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.26.18:787][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.26.18:791][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.26.18:791][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.26.18:804][  0]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.26.18:804][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.26.18:804][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.26.18:804][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.26.18:805][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.26.18:816][  0]LogInit: FAudioDevice initialized.
+[2021.02.08-18.26.18:822][  0]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.26.18:824][  0]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.26.18
+[2021.02.08-18.26.18:824][  0]LogWorld: Bringing up level for play took: 0.001252
+[2021.02.08-18.26.18:824][  0]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.02.08-18.26.18:826][  0]PIE: Server logged in
+[2021.02.08-18.26.18:826][  0]PIE: Play in editor total start time 0,117 seconds.
+[2021.02.08-18.26.41:359][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.41:359][551]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.26.41:359][551]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.26.41:360][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.41:369][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.26.41:373][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.41:410][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.41:411][551]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025079E35580), frame # 309551
+[2021.02.08-18.26.41:411][551]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FE476C200), frame # 309551
+[2021.02.08-18.26.41:414][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.02.08-18.26.41:446][552]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.02.08-18.26.43:532][781]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.26.43:548][781]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.26.43:548][781]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:26:43)
+[2021.02.08-18.26.43:548][781]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.26.43:556][781]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007635s)
+[2021.02.08-18.26.43:557][781]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.26.43:557][781]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000250B2803400), frame # 309781
+[2021.02.08-18.26.43:557][781]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025060579940), frame # 309781
+[2021.02.08-18.26.43:557][781]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2021.02.08-18.26.43:557][781]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.008964s)
+[2021.02.08-18.26.43:585][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.26.43:586][781]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.26.43:586][781]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.26.43:587][781]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.26.43:587][781]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.26.43:591][781]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.26.43:591][781]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.26.43:604][781]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.26.43:604][781]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.26.43:604][781]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.26.43:604][781]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.26.43:604][781]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.26.43:616][781]LogInit: FAudioDevice initialized.
+[2021.02.08-18.26.43:666][781]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.43:667][781]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.26.43:669][781]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.26.43
+[2021.02.08-18.26.43:670][781]LogWorld: Bringing up level for play took: 0.001634
+[2021.02.08-18.26.43:670][781]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.02.08-18.26.43:673][781]PIE: Server logged in
+[2021.02.08-18.26.43:673][781]PIE: Play in editor total start time 0,126 seconds.
+[2021.02.08-18.26.55:558][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.26.55:559][ 52]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.26.55:559][ 52]LogSlate: Window 'MyProject Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.02.08-18.26.55:564][ 52]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.26.55:564][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.55:578][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.26.55:582][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.26.55:622][ 52]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025060579940), frame # 311052
+[2021.02.08-18.26.55:622][ 52]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000250B2803400), frame # 311052
+[2021.02.08-18.26.55:625][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.02.08-18.26.55:665][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.02.08-18.28.53:490][245]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.28.53:547][245]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2021.02.08-18.28.53:606][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.28.53:627][245]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock5E0223E440E2CC29D543CD8F1FFE5783.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.28.53:647][245]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.28.53:647][245]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.28.54:898][390]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.28.54:914][390]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.28.54:914][390]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:28:54)
+[2021.02.08-18.28.54:914][390]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.28.54:922][390]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008118s)
+[2021.02.08-18.28.54:923][390]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.28.54:923][390]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000024FEBD2C800), frame # 323390
+[2021.02.08-18.28.54:923][390]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002501A6CEE80), frame # 323390
+[2021.02.08-18.28.54:923][390]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.02.08-18.28.54:923][390]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009339s)
+[2021.02.08-18.28.54:954][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.28.54:955][390]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.28.54:955][390]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.28.54:955][390]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.28.54:959][390]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.28.54:959][390]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.28.54:975][390]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.28.54:975][390]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.28.54:975][390]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.28.54:975][390]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.28.54:975][390]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.28.54:986][390]LogInit: FAudioDevice initialized.
+[2021.02.08-18.28.55:043][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.28.55:043][390]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.28.55:045][390]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.28.55
+[2021.02.08-18.28.55:045][390]LogWorld: Bringing up level for play took: 0.001550
+[2021.02.08-18.28.55:045][390]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.02.08-18.28.55:048][390]PIE: Server logged in
+[2021.02.08-18.28.55:049][390]PIE: Play in editor total start time 0,136 seconds.
+[2021.02.08-18.29.00:738][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.29.00:739][ 58]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.29.00:740][ 58]LogSlate: Window 'MyProject Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.02.08-18.29.00:746][ 58]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.29.00:746][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.29.00:762][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.29.00:766][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.29.00:804][ 58]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002501A6CEE80), frame # 324058
+[2021.02.08-18.29.00:804][ 58]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000024FEBD2C800), frame # 324058
+[2021.02.08-18.29.00:807][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.02.08-18.29.00:848][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.02.08-18.29.01:796][163]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.08-18.29.01:812][163]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.08-18.29.01:812][163]PIE: New page: PIE session: FélixWW (8 févr. 2021 à 20:29:01)
+[2021.02.08-18.29.01:812][163]LogPlayLevel: Creating play world package: /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.29.01:820][163]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007631s)
+[2021.02.08-18.29.01:821][163]LogAIModule: Creating AISystem for world FélixWW
+[2021.02.08-18.29.01:821][163]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000250BAFA4800), frame # 324163
+[2021.02.08-18.29.01:821][163]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002501E5E1D00), frame # 324163
+[2021.02.08-18.29.01:821][163]LogPlayLevel: PIE: World Init took: (0.001824s)
+[2021.02.08-18.29.01:822][163]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Félix/FélixWW.FélixWW to /Game/Félix/UEDPIE_0_FélixWW.FélixWW (0.009658s)
+[2021.02.08-18.29.01:851][163]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.08-18.29.01:852][163]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.08-18.29.01:852][163]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.08-18.29.01:853][163]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.08-18.29.01:853][163]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.08-18.29.01:857][163]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.08-18.29.01:857][163]LogAudioMixer: Display: 1: FrontRight
+[2021.02.08-18.29.01:871][163]LogAudioMixer: Display: Using Audio Device Casque pour téléphone (HyperX Virtual Surround Sound)
+[2021.02.08-18.29.01:871][163]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.08-18.29.01:871][163]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.08-18.29.01:872][163]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.08-18.29.01:872][163]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.08-18.29.01:883][163]LogInit: FAudioDevice initialized.
+[2021.02.08-18.29.01:931][163]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.29.01:931][163]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.02.08-18.29.01:933][163]LogWorld: Bringing World /Game/Félix/UEDPIE_0_FélixWW.FélixWW up for play (max tick rate 0) at 2021.02.08-19.29.01
+[2021.02.08-18.29.01:933][163]LogWorld: Bringing up level for play took: 0.001529
+[2021.02.08-18.29.01:933][163]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.02.08-18.29.01:936][163]PIE: Server logged in
+[2021.02.08-18.29.01:937][163]PIE: Play in editor total start time 0,126 seconds.
+[2021.02.08-18.29.26:458][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.08-18.29.26:458][979]LogWorld: BeginTearingDown for /Game/Félix/UEDPIE_0_FélixWW
+[2021.02.08-18.29.26:459][979]LogSlate: Window 'MyProject Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2021.02.08-18.29.26:464][979]LogWorld: UWorld::CleanupWorld for FélixWW, bSessionEnded=true, bCleanupResources=true
+[2021.02.08-18.29.26:464][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.29.26:475][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.08-18.29.26:479][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.08-18.29.26:521][979]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002501E5E1D00), frame # 326979
+[2021.02.08-18.29.26:521][979]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000250BAFA4800), frame # 326979
+[2021.02.08-18.29.26:523][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.02.08-18.29.26:565][980]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.02.08-18.29.40:044][559]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.29.40:090][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.02.08-18.29.40:158][559]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.29.40:186][559]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/RockA0046DCF42C077400E5D0485568E635B.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.29.40:205][559]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.29.40:205][559]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.30.11:570][184]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.30.11:618][184]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.02.08-18.30.11:670][184]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.30.11:691][184]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock00008F06456249B259D640B72512F1AC.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.30.11:703][184]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.30.11:703][184]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.31.30:535][136]BlueprintLog: New page: Compile Inventory
+[2021.02.08-18.31.30:617][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.02.08-18.31.30:658][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Inventory" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Inventory.uasset" SILENT=true
+[2021.02.08-18.31.30:679][136]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Inventory7F5079CE48E4CE14034315AFAD53E8A2.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Inventory.uasset'
+[2021.02.08-18.31.30:681][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Item" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Item.uasset" SILENT=true
+[2021.02.08-18.31.30:704][136]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/ItemD2F2231046D39571E079D1980CB33A08.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Item.uasset'
+[2021.02.08-18.31.30:717][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.31.30:738][136]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock82C838C8412AC8C7B6E5FB9A39D1275D.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.31.30:759][136]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.08-18.31.30:760][136]LogContentValidation: Display: Validating Blueprint /Game/Félix/Inventory.Inventory
+[2021.02.08-18.31.30:760][136]LogContentValidation: Display: Validating Blueprint /Game/Félix/Item.Item
+[2021.02.08-18.31.30:760][136]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.31.41:966][418]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Félix/Item.Item
+[2021.02.08-18.32.44:863][714]LogEditorTransaction: Undo Move Node
+[2021.02.08-18.32.59:489][398]LogEditorTransaction: Undo Delete current selection
+[2021.02.08-18.32.59:893][409]LogEditorTransaction: Undo Delete current selection
+[2021.02.08-18.33.00:277][442]LogEditorTransaction: Undo Delete current selection
+[2021.02.08-18.33.00:679][488]LogEditorTransaction: Undo Delete current selection
+[2021.02.08-18.34.02:576][692]BlueprintLog: New page: Compile Inventory
+[2021.02.08-18.34.02:651][692]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.02.08-18.34.02:701][692]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Inventory" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Inventory.uasset" SILENT=true
+[2021.02.08-18.34.02:721][692]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/InventoryAD46C5764113F588962EA28929ACF8F1.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Inventory.uasset'
+[2021.02.08-18.34.02:736][692]AssetCheck: New page: Asset Save: Inventory
+[2021.02.08-18.34.02:736][692]LogContentValidation: Display: Validating Blueprint /Game/Félix/Inventory.Inventory
+[2021.02.08-18.34.38:047][750]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.34.38:101][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.02.08-18.34.38:155][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.34.38:179][750]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock17ACC3A941631FE022E765AB4A189B45.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.34.38:193][750]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.34.38:193][750]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.34.49:349][ 24]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.34.49:399][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.02.08-18.34.49:448][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/Rock" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset" SILENT=true
+[2021.02.08-18.34.49:474][ 24]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Rock957489EF4A03DCDE73D2A1ADC845070C.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/Rock.uasset'
+[2021.02.08-18.34.49:501][ 24]AssetCheck: New page: Asset Save: Rock
+[2021.02.08-18.34.49:501][ 24]LogContentValidation: Display: Validating Blueprint /Game/Félix/Rock.Rock
+[2021.02.08-18.34.52:706][387]LogEditorViewport: Clicking on Actor (LMB): Rock_C (Rock)
+[2021.02.08-18.35.01:985][411]BlueprintLog: New page: Compile Rock
+[2021.02.08-18.35.02:042][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.02.08-18.35.30:838][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.02.08-18.35.30:840][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/FélixWW" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/FélixWW_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.02.08-18.35.30:872][927]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/FélixWW_Auto4DC0562C54D2A639B23B1ECB2E337FA72.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/Autosaves/Game/Félix/FélixWW_Auto4.umap'
+[2021.02.08-18.35.30:873][927]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Félix/FélixWW' took 0.065
+[2021.02.08-18.35.30:873][927]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.065
+[2021.02.08-18.37.18:359][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Félix/FélixWW" FILE="../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/FélixWW.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.02.08-18.37.18:387][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.08-18.37.18:411][906]LogSavePackage: Moving '../../../../../School Projects/Cht-it-Pirate/MyProject/Saved/FélixWW86C721F745DD2400B1E4DC928F52FACA.tmp' to '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/FélixWW.umap'
+[2021.02.08-18.37.18:411][906]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../School Projects/Cht-it-Pirate/MyProject/Content/Félix/FélixWW.umap', retrying in .5s...
+[2021.02.08-18.37.18:912][906]LogFileManager: Warning: DeleteFile recovered during retry!
+[2021.02.08-18.37.18:998][906]AssetCheck: New page: Asset Save: FélixWW
+[2021.02.08-18.37.18:998][906]LogContentValidation: Display: Validating World /Game/Félix/FélixWW.FélixWW
